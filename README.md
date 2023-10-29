@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chunnikumari
 - 👀 I’m interested in writing content and tech feild.
-- 🌱 I’m currently learning frontned development
+- 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on content writing
 - 📫 How to reach me Chunnik390@gmail.com
 
